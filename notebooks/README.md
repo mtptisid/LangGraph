@@ -4,11 +4,11 @@
 
 | Notebook | Topic | Key Concepts | Links |
 |---|---|---|---|
-| [`01`](./01_langGraph_two_nodes.ipynb) | Graph Fundamentals | StateGraph, Nodes, Edges, TypedDict | |
-| [`02`](./02_edges_in_langgraph.ipynb) | Conditional Routing | Branching, Retry Loops, Routing Functions |
-| [`03`](#notebook-03--react-agent-as-a-graph) | ReAct Agent as a Graph | Tool-Calling, add_messages, Cycles |
-| [`04`](#notebook-04--persistent-memory) | Persistent Memory | MemorySaver, thread_id, SqliteSaver |
-| [`05`](#notebook-05--human-in-the-loop) | Human-in-the-Loop | interrupt_before, update_state, Resume |
-| [`06`](#notebook-06--multi-agent-supervisor) | Multi-Agent Systems | Supervisor Pattern, Specialist Agents |
+| 01| Graph Fundamentals | StateGraph, Nodes, Edges, TypedDict |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aGM9qe80BI5MYVafpe1NXlHwQhhgAlrs) |
+| 02 | Conditional Routing | Branching, Retry Loops, Routing Functions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dLbTK0PTwfGKgbX4-IC55DEMfUgvLcND#scrollTo=x0Emx4hHoSa1)|
+| 03| ReAct Agent as a Graph | Tool-Calling, add_messages, Cycles |
+| 04 | Persistent Memory | MemorySaver, thread_id, SqliteSaver |
+| 05| Human-in-the-Loop | interrupt_before, update_state, Resume |
+| 06| Multi-Agent Systems | Supervisor Pattern, Specialist Agents |
 
 ---
