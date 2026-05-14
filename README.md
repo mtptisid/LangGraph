@@ -55,7 +55,7 @@ Free tier. No credit card needed.
 ### 2. Install
 
 ```bash
-pip install langgraph langchain langchain-community \
+pip install -U -q langgraph langchain langchain-community \
             langchain-google-genai google-generativeai \
             wikipedia duckduckgo-search
 ```
