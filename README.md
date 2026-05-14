@@ -34,3 +34,29 @@ LangGraph graph:   A → B → [decide] → C → END          (branching)
 
 
 ---
+## Prerequisites
+
+**You should know:** Python basics — functions, dicts, type hints.
+**You don't need:** ML experience, a GPU, or a paid API key.
+
+If you are brand new to LangChain and LLMs, start with the
+[LangChain Fundamentals Series](https://github.com/YOUR_USERNAME/langchain-tutorials)
+first — then come back here.
+
+---
+
+## Setup
+
+### 1. Get a free Gemini API key
+
+[aistudio.google.com](https://aistudio.google.com) → Create API key.
+Free tier. No credit card needed.
+
+### 2. Install
+
+```bash
+pip install langgraph langchain langchain-community \
+            langchain-google-genai google-generativeai \
+            wikipedia duckduckgo-search
+```
+---
