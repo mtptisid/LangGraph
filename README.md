@@ -40,7 +40,7 @@ LangGraph graph:   A → B → [decide] → C → END          (branching)
 **You don't need:** ML experience, a GPU, or a paid API key.
 
 If you are brand new to LangChain and LLMs, start with the
-[LangChain Fundamentals Series](https://github.com/YOUR_USERNAME/langchain-tutorials)
+[LangChain Fundamentals Series](https://github.com/mtptisid/langchain)
 first — then come back here.
 
 ---
